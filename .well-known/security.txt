@@ -1,0 +1,9 @@
+Contact: https://hartwell-labs.pl/security/
+Contact: mailto:security@hartwell-labs.pl
+Contact: mailto:important@hartwell-labs.pl
+Expires: 2027-10-19T00:00:00.000Z
+Preferred-Languages: en, pl
+Canonical: https://github.com/Hartwell-Labs/.well-known/security.txt
+Policy: https://hartwell-labs.pl/security/
+Hiring: https://hartwell-labs.pl/company/
+Acknowledgments: https://hartwell-labs.pl/hack-the-lab/
