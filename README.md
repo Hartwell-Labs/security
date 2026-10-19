@@ -1,12 +1,19 @@
 # Security — Hartwell Labs
 
-This repository exists so GitHub serves a `security.txt` at
+This is where the security contact lives, in one place, rather than in the same
+three repositories with three slightly different versions of it.
+
+The standard address for this is
 
     https://github.com/Hartwell-Labs/.well-known/security.txt
 
-which is the address every scanner, crawler and researcher looks at first.
-Without a repository named `security` in the organisation, that URL is a 404 and
-a researcher who only ever reads this file concludes there is nobody to tell.
+and it is worth being honest about why that URL does not resolve here: serving
+it from the organisation requires private vulnerability reporting configured at
+organisation level, which is not something this account can turn on through the
+API. Google, Microsoft and GitHub itself all return 404 there too. The real
+address that works is the one on our own domain:
+
+    https://hartwell-labs.pl/.well-known/security.txt
 
 ## Reporting a vulnerability
 
